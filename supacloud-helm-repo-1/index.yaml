@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  supacloud-helm-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-05-18T22:37:17.283237+05:30"
+    description: A Helm chart for Kubernetes
+    digest: fc9b7b362b4de6e4d0a3db9f72e06fac1cc42093112f8eb8514ab70266dad31f
+    name: supacloud-helm-chart
+    type: application
+    urls:
+    - cvikasreddy.github.io/supacloud-helm-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-05-18T22:37:17.282694+05:30"
